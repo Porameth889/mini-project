@@ -2,7 +2,7 @@
 // MySQL database credentials
 $servername = "localhost";
 $username = "user01";
-$password = "1234";
+$password = "123";
 $dbname = "mini-project";
 
 // Establish a connection to the MySQL database
